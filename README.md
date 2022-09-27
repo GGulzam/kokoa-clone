@@ -1,3 +1,3 @@
 # Kokoa clone Update
 
-CSS got so much better!
+Html & CSS are so much fum!!
